@@ -1,0 +1,10 @@
+[
+{"ISIN": ["GBP: IE00BYV24Q63\r\nUSD: IE00BYV24V17\r\nEUR: IE00BYV24S87"]},
+{"ISIN": ["GBP: IE00BYV24R70\r\nUSD: IE00BYV24W24\r\nEUR: IE00BYV24T94"]},
+{"ISIN": ["GBP: IE00BYV24X31"]},
+{"ISIN": ["USD: IE00BYV24P56"]},
+{"bloomberg_code": ["GBP:\r\nGUEIXGA ID\r\nUSD:\r\nGUEMXUA ID\r\nEUR:\r\nGUEMXEA ID"]},
+{"bloomberg_code": ["GBP:\r\nGUEMXGD ID\r\nUSD:\r\nGUEMXUD ID\r\nEUR:\r\nGUEMXED ID"]},
+{"bloomberg_code": ["GBP:\r\nGUEMZGD ID"]},
+{"bloomberg_code": ["USD:\r\nGUEMCUA ID"]}
+]
