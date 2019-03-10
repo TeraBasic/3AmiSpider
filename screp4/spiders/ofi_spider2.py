@@ -2,7 +2,6 @@ import scrapy
 from bs4 import BeautifulSoup
 from screp4.items import Screp4Item
 
-
 class OfiSpider2(scrapy.Spider):
 
     name = "ofi2"
